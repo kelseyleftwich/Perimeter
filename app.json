@@ -1,0 +1,25 @@
+{
+  "name": "Perimeter",
+  "displayName": "Perimeter",
+  "expo": {
+    "name": "Perimeter",
+    "slug": "perimeter",
+    "privacy": "unlisted",
+    "description": "Track your hikes on the Sewanee, TN Perimeter Trail. View maps of trail segments and track mileage as an individual and as part of a team.",
+    "sdkVersion": "27.0.0",
+    "version": "1.0.2",
+    "platforms": ["ios"],
+    "orientation": "portrait",
+    "primaryColor": "#f1e3cd",
+    "ios": {
+      "bundleIdentifier": "com.kelseyleftwich.Perimeter",
+      "buildNumber": "1.0.1",
+      "icon": "./assets/adventure/svg/icon.png"
+    },
+    "splash": {
+      "image": "./assets/splash.png",
+      "backgroundColor": "#f1e3cd",
+      "resizeMode": "cover"
+    }
+  }
+}
